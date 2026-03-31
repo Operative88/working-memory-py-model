@@ -4,30 +4,7 @@ Literature:
 Compte, A., Brunel, N., Goldman-Rakic, P. S., & Wang, X. J. (2000). Synaptic mechanisms and
 network dynamics underlying spatial working memory in a cortical network model.
 Cerebral Cortex, 10(9), 910-923.
-
-Some parts of this implementation are inspired by material from
-*Stanford University, BIOE 332: Large-Scale Neural Modeling, Kwabena Boahen & Tatiana Engel, 2013*,
-online available.
-
 """
-
-# This file is part of the exercise code repository accompanying
-# the book: Neuronal Dynamics (see http://neuronaldynamics.epfl.ch)
-# located at http://github.com/EPFL-LCN/neuronaldynamics-exercises.
-
-# This free software: you can redistribute it and/or modify it under
-# the terms of the GNU General Public License 2.0 as published by the
-# Free Software Foundation. You should have received a copy of the
-# GNU General Public License along with the repository. If not,
-# see http://www.gnu.org/licenses/.
-
-# Should you reuse and publish the code for your own purposes,
-# please cite the book or point to the webpage http://neuronaldynamics.epfl.ch.
-
-# Wulfram Gerstner, Werner M. Kistler, Richard Naud, and Liam Paninski.
-# Neuronal Dynamics: From Single Neurons to Networks and Models of Cognition.
-# Cambridge University Press, 2014.
-
 
 from random import sample
 
