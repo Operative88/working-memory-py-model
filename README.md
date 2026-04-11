@@ -94,18 +94,6 @@ Model-pamieci-roboczej/
 └── .git/                 # Version control
 ```
 
-## License
-
-[Specify your license here]
-
-## Authors
-
-[Add author information]
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit issues or pull requests.
-
 ## References
 
 - Compte et al., 2000 - Foundational work on working memory networks
